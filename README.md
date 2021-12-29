@@ -1,1 +1,1 @@
-# SIA_semantic_segmentation_project
+# semantic_segmentation_project
