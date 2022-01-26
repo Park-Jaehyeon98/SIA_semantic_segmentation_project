@@ -16,7 +16,7 @@
 
 #### 사용한 모델
 
- Unet++ / re_resnext101 32x4d
+ Unet++ / se_resnext101 32x4d
 
 
 #### iou_score / loss / fps
